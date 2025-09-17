@@ -29,10 +29,12 @@ Here you’ll find projects that combine **gameplay logic (Lua)** with **clean U
 
 ## 🌍 Connect with Me
 - 💬 Discord: **uniq_ofc**  
-- 📧 Email: *uniqdev82@gmail.com*  
+- 📧 Email: *uniqdev82@gmail.com*
+- old acc deleted 2021
 
 ---
 
 
 ⭐️ *If you like my work, support by starring my repos & following for updates!*  
+
 
