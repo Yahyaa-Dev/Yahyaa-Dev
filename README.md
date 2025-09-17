@@ -1,6 +1,6 @@
 # 👋 Hi, I'm UNIQ (Yahya)
 
-🎮 **FiveM Developer | Lua | HTML | CSS | JavaScript**  
+🎮 **FiveM Developer | Lua | HTML | CSS | JavaScript | Mysql**  
 
 I specialize in building **custom FiveM scripts and systems** with a focus on **roleplay frameworks (ESX / QBCore)** and **UI/UX enhancements**.  
 Here you’ll find projects that combine **gameplay logic (Lua)** with **clean UI design (HTML, CSS, JS)**.  
@@ -33,5 +33,6 @@ Here you’ll find projects that combine **gameplay logic (Lua)** with **clean U
 - 📧 Email: *uniqdev82@gmail.com*  
 
 ---
+
 
 ⭐️ *If you like my work, support by starring my repos & following for updates!*  
